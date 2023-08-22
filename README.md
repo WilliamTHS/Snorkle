@@ -1,46 +1,27 @@
-<style>
-  body {
-    background-color: #f8f8f8;
-    color: #000;
-    font-family: Arial, sans-serif;
-  }
-  
-  h1 {
-    color: #000;
-    font-size: 28px;
-    font-weight: bold;
-    margin-bottom: 20px;
-  }
-  
-  p {
-    color: #333;
-    font-size: 16px;
-    line-height: 1.5;
-    margin-bottom: 10px;
-  }
-</style>
+# Snorkle v1.0
 
-# Project XYZ
+Snorkle adalah sebuah aplikasi konsol yang dibuat menggunakan bahasa pemrograman JavaScript. Aplikasi konsol ini memiliki tujuan untuk membantu pengguna Windows Server dalam mencatat aktivitas dari sebuah server. Dengan Snorkle, setiap kali ada aplikasi yang terbuka setiap detik dan menit, informasinya akan tercatat dalam sebuah file teks bersama dengan tanggal dan waktu. Hal ini bertujuan untuk melindungi server dari serangan malware yang beroperasi secara tersembunyi.
 
-Deskripsi singkat proyek ini di sini.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at metus vel augue condimentum porttitor. Sed sagittis est sed ligula volutpat, in viverra tellus posuere. Nullam et nunc sed sem aliquam eleifend. Sed id mi nisi. Integer sit amet sapien sit amet mi luctus finibus. Proin cursus mauris sit amet ex venenatis, a aliquet arcu aliquam. Curabitur vitae lectus et turpis fringilla eleifend. Sed tincidunt, nunc id interdum ultricies, sem enim laoreet mauris, sit amet semper mauris leo non eros. Sed euismod fringilla ante, eget vestibulum nulla convallis a. Sed iaculis, ex sed luctus pellentesque, nisl magna lacinia nulla, id pellentesque quam augue in velit. Duis ante lacus, dapibus non viverra et, finibus non ante.
+Namun, perlu diperhatikan bahwa penataan bahasa pada penjelasan sebelumnya terlihat tidak formal. Snorkle sebagai aplikasi konsol tidak memiliki hubungan dengan kerangka kerja (framework) pembelajaran mesin yang disebut Snorkel. Nama "Snorkle" dipilih oleh pengembang aplikasi konsol tersebut dengan sengaja untuk menghindari kesalahpahaman.
 
 ## Fitur Utama
 
-- Fitur 1: Deskripsi fitur 1 di sini.
-- Fitur 2: Deskripsi fitur 2 di sini.
-- Fitur 3: Deskripsi fitur 3 di sini.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at metus vel augue condimentum porttitor. Sed sagittis est sed ligula volutpat, in viverra tellus posuere. Nullam et nunc sed sem aliquam eleifend. Sed id mi nisi. Integer sit amet sapien sit amet mi luctus finibus. Proin cursus mauris sit amet ex venenatis, a aliquet arcu aliquam. Curabitur vitae lectus et turpis fringilla eleifend. Sed tincidunt, nunc id interdum ultricies, sem enim laoreet mauris, sit amet semper mauris leo non eros. Sed euismod fringilla ante, eget vestibulum nulla convallis a. Sed iaculis, ex sed luctus pellentesque, nisl magna lacinia nulla, id pellentesque quam augue in velit. Duis ante lacus, dapibus non viverra et, finibus non ante.
+Salah satu fitur utama dari Snorkel adalah kemampuannya untuk mencatat riwayat nama aplikasi yang baru saja dibuka di Windows Server. Dengan demikian, Snorkel memberikan efisiensi yang lebih tinggi daripada Task Manager pada Windows Server. Semua catatan aktivitas akan terdokumentasi dalam sebuah file yang diberi nama "aktivitas.txt".
 
 ## Teknologi yang Digunakan
 
-- Bahasa Pemrograman: Python
-- Framework: Django
-- Database: PostgreSQL
-- Front-end: HTML, CSS, JavaScript
-- Lainnya: Docker, Git
+- Bahasa Pemrograman: JavaScript
+- Framework: NONE
+- Database: NONE
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at metus vel augue condimentum porttitor. Sed sagittis est sed ligula volutpat, in viverra tellus posuere. Nullam et nunc sed sem aliquam eleifend. Sed id mi nisi. Integer sit amet sapien sit amet mi luctus finibus. Proin cursus mauris sit amet ex venenatis, a aliquet arcu aliquam. Curabitur vitae lectus et turpis fringilla eleifend. Sed tincidunt, nunc id interdum ultricies, sem enim laoreet mauris, sit amet semper mauris leo non eros. Sed euismod fringilla ante, eget vestibulum nulla convallis a. Sed iaculis, ex sed luctus pellentesque, nisl magna lacinia nulla, id pellentesque quam augue in velit. Duis ante lacus, dapibus non viverra et, finibus non ante.
+JavaScript adalah bahasa pemrograman yang sering digunakan dalam pengembangan aplikasi web. Bahasa ini memberikan kemampuan interaktif pada halaman web dengan memungkinkan manipulasi elemen HTML, mengatur perilaku halaman, dan berinteraksi dengan pengguna.
 
+JavaScript dapat dijalankan di sisi klien (client-side) pada browser pengguna, maupun di sisi server (server-side) menggunakan platform seperti Node.js. Bahasa ini memiliki sintaks yang mirip dengan bahasa pemrograman C dan memiliki dukungan yang luas di berbagai platform dan browser.
+
+JavaScript memungkinkan pengembang untuk membuat fitur interaktif seperti validasi formulir, animasi, pengambilan data dari server secara asinkron (AJAX), dan banyak lagi. Bahasa ini juga mendukung pemrograman berorientasi objek, sehingga pengembang dapat membuat struktur data dan fungsi yang terorganisir.
+
+JavaScript juga memiliki banyak pustaka dan kerangka kerja (framework) yang memperluas kemampuannya. Contohnya, React, Angular, dan Vue.js adalah kerangka kerja JavaScript yang populer dalam pengembangan aplikasi web modern.
+
+Dalam beberapa tahun terakhir, JavaScript telah berkembang menjadi bahasa pemrograman serba guna yang dapat digunakan untuk mengembangkan aplikasi mobile, desktop, dan bahkan kecerdasan buatan (artificial intelligence).
+
+Dengan popularitasnya yang terus meningkat, JavaScript menjadi bahasa pemrograman yang penting dan wajib dikuasai oleh pengembang web untuk membangun aplikasi yang interaktif dan dinamis.
