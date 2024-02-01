@@ -6,7 +6,7 @@ Namun, perlu diperhatikan bahwa penataan bahasa pada penjelasan sebelumnya terli
 
 ## Fitur Utama
 
-Salah satu fitur utama dari Snorkel adalah kemampuannya untuk mencatat riwayat nama aplikasi yang baru saja dibuka di Windows Server. Dengan demikian, Snorkel memberikan efisiensi yang lebih tinggi daripada Task Manager pada Windows Server. Semua catatan aktivitas akan terdokumentasi dalam sebuah file yang diberi nama "aktivitas.txt".
+Salah satu fitur utama dari Snorkle adalah kemampuannya untuk mencatat riwayat nama aplikasi yang baru saja dibuka di Windows Server. Dengan demikian, Snorkel memberikan efisiensi yang lebih tinggi daripada Task Manager pada Windows Server. Semua catatan aktivitas akan terdokumentasi dalam sebuah file yang diberi nama "aktivitas.txt".
 
 ## Teknologi yang Digunakan
 
